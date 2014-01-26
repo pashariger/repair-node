@@ -1,0 +1,21 @@
+{
+    "name": "repair-node",
+    "description": "Repair Node",
+    "version": "0.1.0",
+    "private": true,
+    "author": "Pasha Riger",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/invalidka/repair-node"
+    },
+    "engines": {
+        "node": "0.10.x",
+        "npm": "1.2.x"
+    },
+    "scripts": {
+        "start": "node process.js"
+    },
+    "dependencies": {
+        "underscore": "latest"
+    }
+}

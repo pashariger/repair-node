@@ -10,7 +10,7 @@ Currently, this code can process an array of ints, Ex: [2,5,6,4,3,7,1,4] and bui
 To Run
 ------
   1. Requires node to be installed.
-  2. Run npm install, outside package "underscore" used. (defined in pacakge.json)
+  2. Run npm install, outside package "underscore" used. (defined in package.json)
   3. Run node process.js or npm start
 
 Notes & Todo
